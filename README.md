@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @abelmautsa from Hurungwe in Zimbabwe
-- 👀 I’m interested in IT/Digital Consulting and Advisory
+- 👋 Hi, I’m @abelmautsa from Zimbabwe
+- 👀 I’m interested in IT/Digital
 - 🌱 I’m currently learning Computer Science with AI
-- 💞️ I’m looking to collaborate on #agrotech and all things IT/Digital
+- 💞️ I’m looking for opportunities and collaborations in IT Consulting/Advisory/Research | Digital Marketing/Communication/Community | UI/UX Designing | Software/Web Engineering
 - 📫 How to reach me @abelmautsa on all LinkedIn, Facebook, Twitter or email abel@abmparassa.com
 
 
