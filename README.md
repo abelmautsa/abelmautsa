@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abelmautsa
-- 👀 IT/Digital Consultant - banking, education/CS teaching, software development, projects and consulting
+- 👀 IT/Digital Consultant - banking, CS teaching, software development, projects and consulting
 - 🌱 Learning Computer Science and AI
 - 💞️ Looking for opportunities and collaborations in IT Consulting, Digital Experiences, User Designing, Software/Web Engineering
 - 📫 @abelmautsa @abmparassa on LinkedIn, Facebook, X, Instagram AND email abel@abmparassa.com
