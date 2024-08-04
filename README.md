@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @abelmautsa from Zimbabwe
-- 👀 I’m an IT/Digital Consultant with a 28+ years career spanning banking,
-     education/CS teaching, software development, projects and consulting
-- 🌱 I’m currently a Computer Science with AI student
-- 💞️ I’m looking for opportunities and collaborations in IT Consulting/Advisory/Research
-     | Digital Marketing/Communication/Community | UI/UX Designing | Software/Web Engineering
-- 📫 How to reach me @abelmautsa @abmparassa on LinkedIn, Facebook, X, Instagram or email abel@abmparassa.com
+- 👋 Hi, I’m @abelmautsa
+- 👀 IT/Digital Consultant - banking, education/CS teaching, software development, projects and consulting
+- 🌱 Learning Computer Science and AI
+- 💞️ Looking for opportunities and collaborations in IT Consulting, Digital Experiences, User Designing, Software/Web Engineering
+- 📫 @abelmautsa @abmparassa on LinkedIn, Facebook, X, Instagram AND email abel@abmparassa.com
 
 
 <!---
